@@ -1,4 +1,5 @@
 // in the name of Allah
+// https://codeforces.com/contest/1472/problem/B
 #include <bits/stdc++.h>
 using namespace std;
 #define sync ios_base :: sync_with_stdio(false); cin.tie(0); cout.tie(0);
